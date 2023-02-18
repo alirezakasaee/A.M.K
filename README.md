@@ -8,10 +8,10 @@ Currently, Alireza conducts research on several microwave circuits in different 
 </p>
 
 <h1> Contact</h1>
-<p>Telephone number: +46 18 471 3595
-Mobil number: +46722883582
-Email1: alireza.kasaee@physics.uu.se
-Email2: alireza.kasaee@gmail.com
-Visiting address: Ångströmlaboratoriet, Lägerhyddsvägen 1,
-Postal address: Box 516, 751 20 Uppsala, Sweden
-</p1>
+<p>Telephone number: +46 18 471 3595</p1>
+<p>Mobil number: +46722883582</p1>
+<p>Email1: alireza.kasaee@physics.uu.se</p1>
+<p>Email2: alireza.kasaee@gmail.com</p1>
+<p>Visiting address: Ångströmlaboratoriet, Lägerhyddsvägen 1,</p1>
+<p>Postal address: Box 516, 751 20 Uppsala, Sweden</p1>
+
