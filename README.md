@@ -5,3 +5,15 @@ In 2013, Alireza continued his education and research as a Ph.D. candidate at th
 Following his Ph.D., Alireza returned to the research institute in his home country as an Assistant Professor. He then applied for and was awarded grants from both the Marie Skłodowska-Curie Action of the European Union and Vinnova in 2020. In September 2021, Alireza joined Uppsala University as a Marie Curie Postdoctoral Fellow with a high-scoring (99.4/100) proposal entitled "Implementation of Best Practices in Designing Solid State Power Amplifiers for Developing New Generation PET Accelerators".
 
 Currently, Alireza conducts research on several microwave circuits in different frequency ranges between 100MHz to 12GHz, including high-power solid-state amplifiers, splitters, and combiners at the FERIA Laboratory in Uppsala, Sweden.
+
+ Contact
+
+
+---------------------------------------------------------------------
+Telephone number: +46 18 471 3595
+Mobil number: +46722883582
+Email1: alireza.kasaee@physics.uu.se
+Email2: alireza.kasaee@gmail.com
+Visiting address: Ångströmlaboratoriet, Lägerhyddsvägen 1,
+Postal address: Box 516, 751 20 Uppsala, Sweden
+----------------------------------------------------------------------
