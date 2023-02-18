@@ -1,4 +1,4 @@
-<img src="./alirezaJPG.jpg" align="right" width="16%"/>
+<img src="./AlirezaJPG.jpg" align="left" width="16%"/>
 <p> Alireza is a Microwave Engineer with almost a decade of experience in both academic and industrial settings. After earning Bachelor's and Master's degrees in Electronic Engineering in 2003 and 2006, respectively, he spent five years (2008-2013) as a Microwave Engineer at the highly-regarded Research Institute in Isfahan University of Technology, Iran, where he learned design and development of a vast range of microwave solid-state circuits, including power amplifiers, splitters, combiners, couplers, filters, switches, and DC bias circuits.
 
 In 2013, Alireza continued his education and research as a Ph.D. candidate at the University of Science and Technology Beijing in China. His thesis, entitled "Research on RF/Microwave High-Efficiency and Broadband Solid State Power Amplifier for Wireless Communications," earned him recognition as an outstanding international student upon graduation in 2017.
