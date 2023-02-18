@@ -8,10 +8,11 @@
 </p>
 
 <h1> Contact</h1>
-<p>Telephone number: +46 18 471 3595<br/>
-Mobil number: +46722883582<br/>
+<p>
+Mobil number: (+46)722883582<br/>
+Telephone number: (+46)-184713595<br/>
 Email1: alireza.kasaee@physics.uu.se<br/>
-Email2: alireza.kasaee@gmail.com<br/>
-Visiting address: Ångströmlaboratoriet, Lägerhyddsvägen 1,<br/>
-Postal address: Box 516, 751 20 Uppsala, Sweden</p1>
+Postal address: Box 516, 751 20 Uppsala, Sweden. <br/>
+Visiting address: Room No. 11627, Ångströmlaboratoriet, Lägerhyddsvägen 1.<br/>
+</p1>
 
