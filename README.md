@@ -9,7 +9,7 @@ In 2013, Alireza continued his education and research as a Ph.D. candidate at th
 <h2> Uppsala University</h2>
 <p align="left"> <b>1 To 64 ports 100kW power combiner</b></p><br/>
 <img src="./imgs/Cavity_combiner.jpg" align="left" width="40%"/>
-<td width = "33%"><img src="./imgs/100kwcombinergif.gif"/></td>
+<img src="./imgs/100kwcombinergif.gif"width = "29%"/>
 <p align="justify"> Cavity combiner
   
 </p> <br/>
