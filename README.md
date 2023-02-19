@@ -18,6 +18,8 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 <h1> Contact</h1>
 <p>
 Mobil number: (+46)722883582<br/>
