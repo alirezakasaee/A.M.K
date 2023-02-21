@@ -7,6 +7,53 @@ In 2013, Alireza continued his education and research as a Ph.D. candidate at th
 </p>
 <h1> Design and Development Experiences</h1>
 <h2> Uppsala University</h2>
+<style>
+table, tr {border:hidden;}
+td, th {border:hidden;}
+</style>
+
+<table style="border:hidden;cellspacing=0; cellpadding=0;">
+
+<!-- <style>
+th, td {
+  border-style:None;}
+</style> -->
+<!-- *************************************************** -->
+  <tr>
+    <th style="width:80%"></th>
+    <th></th>
+  </tr>
+
+<tr>
+    <td style = ""><img src="./imgs/2kwmicrostrip.jpg" /></td>
+    <td>  <br>
+    <p align="justify">
+In this work, 
+</p>
+ </td>
+  </tr>
+<!-- *************************************************** -->
+  <tr>
+    <th style="width:80%"></th>
+    <th></th>
+  </tr>
+
+<tr>
+    <td style = ""><img src="./imgs/2kwstripline.jpg" width="40%"/></td>
+    <td>  <br>
+    <p align="justify">
+In this work, 
+</p>
+ </td>
+  </tr>
+<!-- *************************************************** -->    
+  
+  
+  
+  </table>
+
+
+
 <!-- *************************************************** -->
 <p align="left"> <b>-2kW RF power amplifier using microstrip transmision lines</b></p><br/>
 <img src="./imgs/2kwmicrostrip.jpg" align="left" width="40%"/>
