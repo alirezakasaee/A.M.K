@@ -8,78 +8,40 @@ In 2013, Alireza continued his education and research as a Ph.D. candidate at th
 <h1> Design and Development Experiences</h1>
 <h2> Uppsala University</h2>
 
-<table style="border:hidden;cellspacing=0; cellpadding=0;">
-
+<table style="width:100%" "border:1px solid black">
+<body>  
 
 <!--1 2kwmicrostrip************************************* -->
-  
-<tr>
-    <td style = ""><img src="./imgs/2kwmicrostrip.jpg" /></td>
-    <td> <p align="justify">
-In this work, 
-</p>
- </td>
-  </tr>
+ <tr>
+    <td><img src="./imgs/2kwmicrostrip.jpg" /></td>
+    <td style="width:90%"> <p align="justify"> 2kw microstrip RF power amplifier </p> </td>
+</tr>
 <!--2 2kwstripline************************************ -->
  <tr>
-    <td style = ""><img src="./imgs/2kwstripline.jpg" width="40%"/></td>
-    <td>  <br>
-    <p align="justify">
-In this work, 
-</p>
- </td>
-  </tr>
+    <td><img src="./imgs/2kwstripline.jpg" /></td>
+    <td> <br> <p align="justify"> 2kw stripline RF power amplifier </p> </td>
+ </tr>
 <!--3 Cavity_combiner********************************** -->    
-  
-  <tr>
-    <td style = ""><img src="./imgs/Cavity_combiner.jpg" align="left" width="40%"/></td>
-    <td>  <br>
-    <p align="justify">
-In this work, 
-</p>
- </td>
-  </tr>
+ <tr>
+    <td><img src="./imgs/Cavity_combiner.jpg" align="left" /></td>
+    <td> <br> <p align="justify"> 64 To 1 RF spatial (Cavity) combiner </p> </td>
+ </tr>
 <!--4 Splitter1to64************************************** -->    
-  
-  <tr>
-    <td style = ""><img src="./imgs/Splitter1to64.jpg" align="left" width="40%"/></td>
-    <td>  <br>
-    <p align="justify">
-In this work, 
-</p>
- </td>
+  <tr> 
+    <td><img src="./imgs/Splitter1to64.jpg" align="left" /></td>
+    <td> <br><p align="justify">1 To 64 RF spatial (Cavity) splitter </p> </td>
   </tr>
 <!--5 *************************************************** -->    
-  <tr>
-    <td style = ""><img src="./imgs/100kwcombinergif.gif" width = "29%"/></td>
-    <td>  <br>
-    <p align="justify">
-In this work, 
-</p>
- </td>
+  <tr> 
+    <td><img src="./imgs/100kwcombinergif.gif" /></td>
+    <td> <br> <p align="justify">100kw RF combiner</p> </td>
   </tr>
 <!-- *************************************************** -->    
-  
+  </body>
   </table>
 
 
-
-<!-- *************************************************** -->
-<p align="left"> <b>-2kW RF power amplifier using microstrip transmision lines</b></p><br/>
-<img src="./imgs/2kwmicrostrip.jpg" align="left" width="40%"/>
-<!-- *************************************************** -->
-<p align="left"> <b>-1 To 64 ports 100kW power combiner</b></p><br/>
-<!img src="./imgs/Cavity_combiner.jpg" align="left" width="40%"/>
-<!img src="./imgs/100kwcombinergif.gif" width = "29%"/>
-<p align="justify"> Cavity combiner
-  
 </p> <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <h1> Contact</h1>
 <p>
