@@ -7,38 +7,21 @@ In 2013, Alireza continued his education and research as a Ph.D. candidate at th
 </p>
 <h1> Design and Development Experiences</h1>
 <h2> Uppsala University</h2>
-<style>
-table, tr {border:hidden;}
-td, th {border:hidden;}
-</style>
 
 <table style="border:hidden;cellspacing=0; cellpadding=0;">
 
-<!-- <style>
-th, td {
-  border-style:None;}
-</style> -->
-<!-- *************************************************** -->
-  <tr>
-    <th style="width:80%"></th>
-    <th></th>
-  </tr>
 
+<!--1 *************************************************** -->
+  
 <tr>
     <td style = ""><img src="./imgs/2kwmicrostrip.jpg" /></td>
-    <td>  <br>
-    <p align="justify">
+    <td> <p align="justify">
 In this work, 
 </p>
  </td>
   </tr>
-<!-- *************************************************** -->
-  <tr>
-    <th style="width:80%"></th>
-    <th></th>
-  </tr>
-
-<tr>
+<!--2 *************************************************** -->
+ <tr>
     <td style = ""><img src="./imgs/2kwstripline.jpg" width="40%"/></td>
     <td>  <br>
     <p align="justify">
@@ -46,9 +29,36 @@ In this work,
 </p>
  </td>
   </tr>
+<!--3 *************************************************** -->    
+  
+  <tr>
+    <td style = ""><img src="./imgs/2kwmicrostrip.jpg" align="left" width="40%"/></td>
+    <td>  <br>
+    <p align="justify">
+In this work, 
+</p>
+ </td>
+  </tr>
+<!--4 *************************************************** -->    
+  
+  <tr>
+    <td style = ""><img src="./imgs/Cavity_combiner.jpg" align="left" width="40%"/></td>
+    <td>  <br>
+    <p align="justify">
+In this work, 
+</p>
+ </td>
+  </tr>
+<!--5 *************************************************** -->    
+  <tr>
+    <td style = ""><img src="./imgs/100kwcombinergif.gif" width = "29%"/></td>
+    <td>  <br>
+    <p align="justify">
+In this work, 
+</p>
+ </td>
+  </tr>
 <!-- *************************************************** -->    
-  
-  
   
   </table>
 
@@ -59,8 +69,8 @@ In this work,
 <img src="./imgs/2kwmicrostrip.jpg" align="left" width="40%"/>
 <!-- *************************************************** -->
 <p align="left"> <b>-1 To 64 ports 100kW power combiner</b></p><br/>
-<img src="./imgs/Cavity_combiner.jpg" align="left" width="40%"/>
-<img src="./imgs/100kwcombinergif.gif" width = "29%"/>
+<!img src="./imgs/Cavity_combiner.jpg" align="left" width="40%"/>
+<!img src="./imgs/100kwcombinergif.gif" width = "29%"/>
 <p align="justify"> Cavity combiner
   
 </p> <br/>
