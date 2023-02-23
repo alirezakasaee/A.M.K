@@ -19,22 +19,22 @@ In 2013, Alireza continued his education and research as a Ph.D. candidate at th
 </tr>
 <!--2 2kwstripline************************************ -->
  <tr>
-    <td><img src="./imgs/2kwstripline.jpg" width="300" height="200"/></td>
+    <td><img src="./imgs/2kwstripline.jpg" alt="Image 1" width="300" /></td>
     <td> <br> <p align="justify"> 2kw stripline RF power amplifier </p> </td>
  </tr>
 <!--3 Cavity_combiner********************************** -->    
  <tr>
-    <td><img src="./imgs/Cavity_combiner.jpg" align="left" width="300" height="200"/></td>
+    <td><img src="./imgs/Cavity_combiner.jpg" align="left" width="300" /></td>
     <td> <br> <p align="justify"> 64 To 1 RF spatial (Cavity) combiner </p> </td>
  </tr>
 <!--4 Splitter1to64************************************** -->    
   <tr> 
-    <td><img src="./imgs/Splitter1to64.jpg" align="left" width="300" height="200"/></td>
+    <td><img src="./imgs/Splitter1to64.jpg" align="left" width="300" /></td>
     <td> <br><p align="justify">1 To 64 RF spatial (Cavity) splitter </p> </td>
   </tr>
 <!--5 *************************************************** -->    
   <tr> 
-    <td><img src="./imgs/100kwcombinergif.gif" width="300" height="200"/></td>
+    <td><img src="./imgs/100kwcombinergif.gif" width="300" /></td>
     <td> <br> <p align="justify">100kw RF combiner</p> </td>
   </tr>
 <!-- *************************************************** -->    
