@@ -19,7 +19,7 @@ In 2013, Alireza continued his education and research as a Ph.D. candidate at th
 </tr>
 <!--2 2kwstripline************************************ -->
  <tr>
-    <td><img src="./imgs/2kwstripline.jpg" alt="Image 1" width="300" /></td>
+    <td><img src="./imgs/2kwstripline3.jpg" alt="Image 1" width="300" /></td>
     <td> <br> <p align="justify"> 2kw stripline RF power amplifier </p> </td>
  </tr>
 <!--3 Cavity_combiner********************************** -->    
