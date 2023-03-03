@@ -7,12 +7,45 @@ In 2013, Alireza continued his education and research as a Ph.D. candidate at th
 </p>
 <h1> Design and Development Experiences</h1>
 <h2> Uppsala University</h2>
-
-| Picture | Description |
-| --- | --- |
-| ![2kwmicrostrip]<img src="./imgs/400kW.jpg" /> | <p align="justify"> The Solid-state 400 kW RF power station comprises four 100-kW power amplifier racks, which are combined through a very low-loss cavity combiner to achieve an output power of 100 kW using 64 2-kW RF power amplifiers.The output line is equipped with an isolator to safeguard the station from reflection power. The input side of the station features a 1-to-64 in-phase cavity splitter that efficiently divides the signal across the amplifiers. With the provision of isolation between all amplifier units, the station is expected to function reliably.|
-| ![2kwstripline]<img src="./imgs/PA1.jpg" /> | <p align="justify">This design aims to utilize a pull-pull transistor to achieve a compact continuous wave 2kW RF solid-state power amplifier with a signal gain of 16 dB and up to 80% drain efficiency at 352MHz, making it suitable for use in high-power RF stations. The matching network in this design is based on a strip line configuration and does not utilize a bulun, enabling the amplifier to have very high efficiency. The PA has mechanical dimensions of 90mm x 160mm x 25mm.|
-| ![1To64splitter]<img src="./imgs/2kwstripline3.jpg" /> | <p align="justify">The current design uses the same transistor as the previous one, but the innovation lies in implementing strip line transmission lines for the input and output matching networks. This results in a significantly more compact power amplifier, achieving 2kW output power, 16 dB signal gain, and up to 80% Drain efficiency. The transistor is biased in Class-C operation mode, providing high efficiency and eliminating the need for an RF DC bias circuit. However, due to its non-linear behavior, a linearizer is necessary for applications that require linearity performance. The PA has mechanical dimensions of 90mm x 160mm x 50mm.|
+<table>
+<body>  
+ <!--1 400kw************************************* -->
+ <tr>
+    <td><img src="./imgs/400kW.jpg" /></td>
+    <td> <p align="justify"> The Solid-state 400 kW RF power station comprises four 100-kW power amplifier racks, which are combined through a very low-loss cavity combiner to achieve an output power of 100 kW using 64 2-kW RF power amplifiers.The output line is equipped with an isolator to safeguard the station from reflection power. The input side of the station features a 1-to-64 in-phase cavity splitter that efficiently divides the signal across the amplifiers. With the provision of isolation between all amplifier units, the station is expected to function reliably.
+    </p>
+    </td>
+</tr>
+<!--2 2kwmicrostrip************************************* -->
+ <tr>
+    <td><img src="./imgs/PA1.jpg" /></td>
+    <td> <p align="justify"> This design aims to utilize a pull-pull transistor to achieve a compact continuous wave 2kW RF solid-state power amplifier with a signal gain of 16 dB and up to 80% drain efficiency at 352MHz, making it suitable for use in high-power RF stations. The matching network in this design is based on a strip line configuration and does not utilize a bulun, enabling the amplifier to have very high efficiency. The PA has mechanical dimensions of 90mm x 160mm x 50mm.
+    </p>
+    </td>
+</tr>
+<!--3 2kwstripline************************************ -->
+ <tr>
+    <td><img src="./imgs/2kwstripline3.jpg" alt="Image 1"  /></td>
+    <td> <br> <p align="justify"> The current design uses the same transistor as the previous one, but the innovation lies in implementing strip line transmission lines for the input and output matching networks. This results in a significantly more compact power amplifier, achieving 2kW output power, 16 dB signal gain, and up to 80% Drain efficiency. The transistor is biased in Class-C operation mode, providing high efficiency and eliminating the need for an RF DC bias circuit. However, due to its non-linear behavior, a linearizer is necessary for applications that require linearity performance. The PA has mechanical dimensions of 90mm x 160mm x 25mm. </p> </td>
+ </tr>
+<!--4 Cavity_combiner********************************** -->    
+ <tr>
+    <td><img src="./imgs/Cavity_combiner.jpg" align="left"  /></td>
+    <td> <br> <p align="justify"> 64 To 1 RF spatial (Cavity) combiner </p> </td>
+ </tr>
+<!--4 Splitter1to64************************************** -->    
+  <tr> 
+    <td><img src="./imgs/Splitter1to64.jpg" align="left" /></td>
+    <td> <br><p align="justify">1 To 64 RF spatial (Cavity) splitter </p> </td>
+  </tr>
+<!--5 *************************************************** -->    
+  <tr> 
+    <td><img src="./imgs/100kwcombinergif.gif"  /></td>
+    <td> <br> <p align="justify">100kw RF combiner</p> </td>
+  </tr>
+<!-- *************************************************** -->    
+  </body>
+  </table>
 
 </p> <br/>
 <br/>
