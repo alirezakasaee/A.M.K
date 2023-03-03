@@ -8,38 +8,18 @@ In 2013, Alireza continued his education and research as a Ph.D. candidate at th
 <h1> Design and Development Experiences</h1>
 <h2> Uppsala University</h2>
 
-<table>
-<body>  
-<!--1 2kwmicrostrip************************************* -->
- <tr>
-    <td><img src="./imgs/PA1.jpg" width="300" height="200"/></td>
-    <td> <p align="justify"> 2kw microstrip RF power amplifier,He then applied for and was awarded grants from both the Marie Skłodowska-Curie Action of the European Union and Vinnova (Swedish government agency) in 2020. In September 2021, Alireza joined Uppsala University as a Marie Curie Postdoctoral Fellow with a high-scoring (99.4/100) proposal entitled "Implementation of Best Practices in Designing Solid State Power Amplifiers for Developing New Generation PET Accelerators". Currently, Alireza conducts research on several microwave circuits in different frequency ranges between 100MHz to 12GHz, including high-power solid-state amplifiers, splitters, and combiners at the FERIA Laboratory in Uppsala, Sweden.
-    </p>
-    </td>
-</tr>
-<!--2 2kwstripline************************************ -->
- <tr>
-    <td><img src="./imgs/2kwstripline3.jpg" alt="Image 1" width="300" /></td>
-    <td> <br> <p align="justify"> 2kw stripline RF power amplifier </p> </td>
- </tr>
-<!--3 Cavity_combiner********************************** -->    
- <tr>
-    <td><img src="./imgs/Cavity_combiner.jpg" align="left" width="300" /></td>
-    <td> <br> <p align="justify"> 64 To 1 RF spatial (Cavity) combiner </p> </td>
- </tr>
-<!--4 Splitter1to64************************************** -->    
-  <tr> 
-    <td><img src="./imgs/Splitter1to64.jpg" align="left" width="300" /></td>
-    <td> <br><p align="justify">1 To 64 RF spatial (Cavity) splitter </p> </td>
-  </tr>
-<!--5 *************************************************** -->    
-  <tr> 
-    <td><img src="./imgs/100kwcombinergif.gif" width="300" /></td>
-    <td> <br> <p align="justify">100kw RF combiner</p> </td>
-  </tr>
-<!-- *************************************************** -->    
-  </body>
-  </table>
+my-table {
+  /* some other CSS styles */
+  | Picture | Description |
+| --- | --- |
+| ![2kwmicrostrip]<img src="./imgs/PA1.jpg" /> | This is a picture of a 2kwmicrostrip|
+| ![2kwstripline]<img src="./imgs/PA1.jpg" /> | This is a picture of a 2kwstripline |
+| ![1To64splitter]<img src="./imgs/PA1.jpg" /> | This is a picture of a 1To64splitter |
+  
+  /* apply 50% width to the second column */
+  column-two {
+    width: 50%;
+ }
 
 
 </p> <br/>
