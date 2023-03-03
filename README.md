@@ -12,9 +12,13 @@ my-table {
   /* some other CSS styles */
   | Picture | Description |
 | --- | --- |
-| ![2kwmicrostrip]<img src="./imgs/PA1.jpg" /> | This is a picture of a 2kwmicrostrip|
-| ![2kwstripline]<img src="./imgs/PA1.jpg" /> | This is a picture of a 2kwstripline |
-| ![1To64splitter]<img src="./imgs/PA1.jpg" /> | This is a picture of a 1To64splitter |
+| ![2kwmicrostrip]<img src="./imgs/PA1.jpg" /> | <p align="justify"> This design aims to utilize a pull-pull transistor to achieve a compact continuous wave 2kW RF solid-state power amplifier with a signal gain of 16 dB and up to 80% drain efficiency at 352MHz, making it suitable for use in high-power RF stations. The matching network in this design is based on a strip line configuration and does not utilize a bulun, enabling the amplifier to have very high efficiency. The PA has mechanical dimensions of 90mm x 160mm x 50mm. |
+
+| ![2kwstripline]<img src="./imgs/PA2KWstripline3.jpg" /> | This design employed same transistor with the previous design, while strip line transmission line is used for the input and output matching network, allowing to compact the box of power amplifier much more. This amplifier has also 2kW output power, 16 dB signal gain, and up to 80% Drain efficiency. The transisitor is biased in Class-C operation mode, enabling either having a very high efficiecy design and elliminating using RF DC bias circuit. However, the power amplfiier shows non linear behaviour more than a Class-B power amplifier, requiring using a linearizer for an application that need linearty performance. The PA has mechanical dimensions of 90mm x 160mm x 50mm.
+
+
+
+| ![1To64splitter]<img src="./imgs/PA1.jpg" /> | The current design uses the same transistor as the previous one, but the innovation lies in implementing strip line transmission lines for the input and output matching networks. This results in a significantly more compact power amplifier, achieving 2kW output power, 16 dB signal gain, and up to 80% Drain efficiency. The transistor is biased in Class-C operation mode, providing high efficiency and eliminating the need for an RF DC bias circuit. However, due to its non-linear behavior, a linearizer is necessary for applications that require linearity performance. The PA has mechanical dimensions of 90mm x 160mm x 50mm.|
   
   /* apply 50% width to the second column */
   column-two {
