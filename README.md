@@ -12,7 +12,7 @@ In 2013, Alireza continued his education and research as a Ph.D. candidate at th
 <body>  
 <!--1 2kwmicrostrip************************************* -->
  <tr>
-    <td><img src="./imgs/2kwmicrostrip.jpg" width="300" height="200"/></td>
+    <td><img src="./imgs/PA1.jpg" width="300" height="200"/></td>
     <td> <p align="justify"> 2kw microstrip RF power amplifier,He then applied for and was awarded grants from both the Marie Skłodowska-Curie Action of the European Union and Vinnova (Swedish government agency) in 2020. In September 2021, Alireza joined Uppsala University as a Marie Curie Postdoctoral Fellow with a high-scoring (99.4/100) proposal entitled "Implementation of Best Practices in Designing Solid State Power Amplifiers for Developing New Generation PET Accelerators". Currently, Alireza conducts research on several microwave circuits in different frequency ranges between 100MHz to 12GHz, including high-power solid-state amplifiers, splitters, and combiners at the FERIA Laboratory in Uppsala, Sweden.
     </p>
     </td>
