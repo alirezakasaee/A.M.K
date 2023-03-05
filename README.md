@@ -54,13 +54,13 @@ To achieve this, a coaxial Wilkinson combiner has been designed and developed, c
  <!--7 200w 750MHz GaN amplifier*************************************************** -->    
   <tr> 
     <td><img src="./imgs/200w750MHz.jpg"  /></td>
-    <td> <br> <p align="justify">200w at 750 MHz*******************</p> </td>
+    <td> <br> <p align="justify"> This design showcases the development and simulation of a Gallium Nitride (GaN) semiconductor-based power amplifier that operates at 750 MHz and delivers a continuous wave power of 200W with high efficiency. To achieve this, the transistor is biased in deep Class-AB (very close to class-B) mode, which enhances its efficiency. Additionally, load pull technique is employed to optimize the input and output impedances while employing 1st and 2nd order microstrip Chebyshev filters for the output and input matching networks, respectively. The resultant amplifier is able to deliver a remarkable slightly more than 200W with 85.5% drain efficiency at the operating frequency of 750 MHz.</p> </td>
   </tr>
 <!-- *************************************************** -->  
 <!--7 1w 750MHz GaN amplifier*************************************************** -->    
   <tr> 
     <td><img src="./imgs/HPA750MHz.JPG"  /></td>
-    <td> <br> <p align="justify">1kw at 750 MHz*******************</p> </td>
+    <td> <br> <p align="justify"> Six 200-watt GaN solid-state amplifiers are combined using a 1:6:1 high-power combiner/splitter to generate a total output power of 1 kilowatt, as discussed in the previous column. A low-loss combiner/splitter is designed and utilized for this purpose. The high-power amplifiers are expected to exhibit a power efficiency of over 80%. To achieve a compact size and due to the high efficiency performance of the power amplifier, a small heatsink is selected for the high-power amplifier. Although this heatsink can only dissipate up to 100 watts of power, it is equipped with water tubes to enable the dissipation of higher power up to 250 watts in continuous wave (CW) operation. </p> </td>
   </tr>
 <!-- *************************************************** -->  
 <!--8 500W 3GHz*************************************************** -->    
