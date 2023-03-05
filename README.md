@@ -52,8 +52,14 @@ In 2013, Alireza continued his education and research as a Ph.D. candidate at th
 <!-- *************************************************** -->  
  <!--7 200w 750MHz GaN amplifier*************************************************** -->    
   <tr> 
-    <td><img src="./imgs/Transition7_16to6_1_8.jpg"  /></td>
-    <td> <br> <p align="justify">200w at 750 MHz</p> </td>
+    <td><img src="./imgs/200w750MHz.jpg"  /></td>
+    <td> <br> <p align="justify">200w at 750 MHz*******************</p> </td>
+  </tr>
+<!-- *************************************************** -->  
+<!--7 1w 750MHz GaN amplifier*************************************************** -->    
+  <tr> 
+    <td><img src="./imgs/HPA750MHz.jpg"  /></td>
+    <td> <br> <p align="justify">1kw at 750 MHz*******************</p> </td>
   </tr>
 <!-- *************************************************** -->  
   </body>
