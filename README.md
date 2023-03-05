@@ -72,6 +72,21 @@ To achieve this, a coaxial Wilkinson combiner has been designed and developed, c
   </body>
   </table>
 
+
+<h2> Previous experiences</h2>
+<table>
+<body>  
+ <!--1 400kw************************************* -->
+ <tr>
+    <td><img src="./imgs/400kW.jpg" /></td>
+    <td> <p align="justify"> The Solid-state 400 kW RF power station comprises four 100-kW power amplifier racks, which are combined through a very low-loss cavity combiner to achieve an output power of 100 kW using 64 2-kW RF power amplifiers.The output line is equipped with an isolator to safeguard the station from reflection power. The input side of the station features a 1-to-64 in-phase cavity splitter that efficiently divides the signal across the amplifiers. With the provision of isolation between all amplifier units, the station is expected to function reliably.
+    </p>
+    </td>
+</tr>
+ </body>
+  </table>
+  
+  
 </p> <br/>
 <br/>
 <h1> Contact</h1>
