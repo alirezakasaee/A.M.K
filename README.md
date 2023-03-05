@@ -25,18 +25,18 @@ In 2013, Alireza continued his education and research as a Ph.D. candidate at th
 </tr>
 <!--3 2kwstripline************************************ -->
  <tr>
-    <td><img src="./imgs/2kwstripline3.jpg" alt="Image 1"  /></td>
+    <td><img src="./imgs/2kwstripline3.jpg" /></td>
     <td> <br> <p align="justify"> The current design uses the same transistor as the previous one, but the innovation lies in implementing strip line transmission lines for the input and output matching networks. This results in a significantly more compact power amplifier, achieving 2kW output power, 16 dB signal gain, and up to 80% Drain efficiency. The transistor is biased in Class-C operation mode, providing high efficiency and eliminating the need for an RF DC bias circuit. However, due to its non-linear behavior, a linearizer is necessary for applications that require linearity performance. The PA has mechanical dimensions of 90mm x 160mm x 25mm. </p> </td>
  </tr>
-<!--4 Cavity_combiner********************************** -->    
+<!--4 Cavity_splitter********************************** -->    
  <tr>
-    <td><img src="./imgs/Cavity_combiner.jpg" align="left"  /></td>
-    <td> <br> <p align="justify"> 64 To 1 RF spatial (Cavity) combiner </p> </td>
+    <td><img src="./imgs/Splitter_1to64.jpg" /></td>
+    <td> <br> <p align="justify"> Various techniques and approaches exist for dividing RF signals, but for applications requiring high power, multiple medium power amplifiers must be utilized, necessitating the use of a low loss splitter. The spatial cavity splitting method is highly sought after due to its ability to not only provide low loss division but also occupy minimal space. A 1 to 64 RF spatial splitter utilizing this design has been created, which only incurs a 0.2 dB signal loss and has mechanical dimensions of 90mm x 50mm x 10mm. </p> </td>
  </tr>
 <!--4 Splitter1to64************************************** -->    
   <tr> 
     <td><img src="./imgs/Splitter1to64.jpg" align="left" /></td>
-    <td> <br><p align="justify">1 To 64 RF spatial (Cavity) splitter </p> </td>
+    <td> <br><p align="justify"> ****************************** </p> </td>
   </tr>
 <!--5 *************************************************** -->    
   <tr> 
