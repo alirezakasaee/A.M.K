@@ -78,9 +78,9 @@ To achieve this, a coaxial Wilkinson combiner has been designed and developed, c
 <body>  
  <!--1 400kw************************************* -->
  <tr>
-    <td><img src="./imgs/400kW.jpg" /> <br> <p align="center"> 11111111111 </p></td>
-    <td> <img src="./imgs/500w3GHz.jpg" /><br><p align="center">  222222222222</p></td>
-     <td> <img src="./imgs/HPA750MHz.JPG" /><br><p align="center"> 33333333333</p></td>
+    <td><img src="./imgs/10kwLband.jpg" /> <br> <p align="center"> 10 kW L band RF power amplifier </p></td>
+    <td> <img src="./imgs/2kw5Lband.jpg" /><br><p align="center">  2.5 kW L band RF power amplifier</p></td>
+     <td> <img src="./imgs/330WLband.JPG" /><br><p align="center"> 330 W L band RF power amplifier </p></td>
 </tr>
 <tr>
     <td><img src="./imgs/10wLband.JPG" /> <br> <p align="center"> 10 w L band power amplifier </p></td>
