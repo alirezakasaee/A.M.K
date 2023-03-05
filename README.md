@@ -48,7 +48,7 @@ To achieve this, a coaxial Wilkinson combiner has been designed and developed, c
 <!--6 Transition*************************************************** -->    
   <tr> 
     <td><img src="./imgs/Transition7_16to6_1_8.jpg"  /></td>
-    <td> <br> <p align="justify">7_16 connector to 6_1/8 connector***************</p> </td>
+    <td> <br> <p align="justify"> Matching networks and transitions play a crucial role in RF power systems as they enable the signal to pass from one type of transmission line to another, minimizing the risk of reflection. The efficiency of the system is dependent on the minimum insertion power loss that occurs during this transition. Therefore, it is essential to have low-loss transitions to ensure optimal power efficiency. To address this issue, a compact and efficient transition for a 7/16 connector to a 6-1/8 connector has been designed and developed. The transition is only 10 cm in height, despite the wavelength of the 352 MHz signal being 85 cm in air. This design ensures minimal signal reflection and power loss. </p> </td>
   </tr>
 <!-- *************************************************** -->  
  <!--7 200w 750MHz GaN amplifier*************************************************** -->    
