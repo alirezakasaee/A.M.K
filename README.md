@@ -64,7 +64,7 @@ In 2013, Alireza continued his education and research as a Ph.D. candidate at th
 <!-- *************************************************** -->  
 <!--8 500W 3GHz*************************************************** -->    
   <tr> 
-    <td><img src="./imgs/500w3GHz.jpg"  /></td>
+    <td><img src="./imgs/500w3GHz.jpg"  width="50%"/></td>
     <td> <br> <p align="justify">500W 3 GHz*******************</p> </td>
   </tr>
 <!-- *************************************************** -->  
