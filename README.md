@@ -6,7 +6,7 @@ In 2013, Alireza continued his education and research as a Ph.D. candidate at th
 <p align="justify">He then applied for and was awarded grants from both the Marie Skłodowska-Curie Action of the European Union and Vinnova (Swedish government agency) in 2020. In September 2021, Alireza joined Uppsala University as a Marie Curie Postdoctoral Fellow with a high-scoring (99.4/100) proposal entitled "Implementation of Best Practices in Designing Solid State Power Amplifiers for Developing New Generation PET Accelerators". Currently, Alireza conducts research on several microwave circuits in different frequency ranges between 100MHz to 12GHz, including high-power solid-state amplifiers, splitters, and combiners at the FERIA Laboratory in Uppsala, Sweden.
 </p>
 <h1> Design and Development Experiences</h1>
-<h2> Uppsala University</h2>
+<h2> Experiences in Uppsala University</h2>
 <table>
 <body>  
  <!--1 400kw************************************* -->
@@ -41,7 +41,8 @@ In 2013, Alireza continued his education and research as a Ph.D. candidate at th
 <!--5 Coaxial4to1combiner*************************************************** -->    
   <tr> 
     <td><img src="./imgs/Coaxial_combiner.jpg"  /></td>
-    <td> <br> <p align="justify">coaxial combiner***************</p> </td>
+    <td> <br> <p align="justify"> The Wilkinson approach is a commonly used RF combination method that is often implemented in substrates because of its ability to handle non-50 ohm transmission lines and provide high-accuracy transition connections. One of the main advantages of this approach is its ability to exhibit high port-to-port isolation, which is not always achievable with other methods such as radial combiners and spatial combiners.
+To achieve this, a coaxial Wilkinson combiner has been designed and developed, capable of handling continuous wave signals of up to 4 kW and pulsed RF signals of up to 20 kW. This combiner has been designed to provide at least 20 dB port-to-port isolation with a maximum RF power loss of 0.5 dB at 3562MHz, excluding a 6 dB reduction. Additionally, the designed coaxial Wilkinson combiner is capable of covering a wideband frequency bandwidth of more than 20% above 352 MHz. This feature makes it suitable for use in various applications that require a wide frequency range. </p> </td>
   </tr>
 <!-- *************************************************** -->  
 <!--6 Transition*************************************************** -->    
