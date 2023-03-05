@@ -66,7 +66,7 @@ To achieve this, a coaxial Wilkinson combiner has been designed and developed, c
 <!--8 500W 3GHz*************************************************** -->    
   <tr> 
     <td><img src="./imgs/500w3GHz.jpg"/></td>
-    <td> <br> <p align="justify">500W 3 GHz*******************</p> </td>
+    <td> <br> <p align="justify"> Three RF power amplifiers were designed and developed to achieve a compact design with a 35 dB gain and output power of 500 watts. The amplifiers were simulated using the load pull utility provided in ADS, and most of the matching networks were implemented using the stepped impedance method. The substrate used for the amplifiers was Taconic RF-30 due to its thermal stability performance and low thermal dissipation factor. The PA has mechanical dimensions of 90mm x 160mm x 25mm. </p> </td>
   </tr>
 <!-- *************************************************** -->  
   </body>
