@@ -59,14 +59,14 @@ To achieve this, a coaxial Wilkinson combiner has been designed and developed, c
 <!-- *************************************************** -->  
 <!--7 1w 750MHz GaN amplifier*************************************************** -->    
   <tr> 
-    <td><img src="./imgs/HPA750MHz.JPG"  /></td>
+    <td><img src="./imgs/HPA750MHz.JPG"  width="95%"/></td>
     <td> <br> <p align="justify"> Six 200-watt GaN solid-state amplifiers are combined using a 1:6:1 high-power combiner/splitter to generate a total output power of 1 kilowatt, as discussed in the previous column. A low-loss combiner/splitter is designed and utilized for this purpose. The high-power amplifiers are expected to exhibit a power efficiency of over 80%. To achieve a compact size and due to the high efficiency performance of the power amplifier, a small heatsink is selected for the high-power amplifier. Although this heatsink can only dissipate up to 100 watts of power, it is equipped with water tubes to enable the dissipation of higher power up to 250 watts in continuous wave (CW) operation. </p> </td>
   </tr>
 <!-- *************************************************** -->  
 <!--8 500W 3GHz*************************************************** -->    
   <tr> 
     <td><img src="./imgs/500w3GHz.jpg"/></td>
-    <td> <br> <p align="justify"> Three RF power amplifiers were designed and developed to achieve a compact design with a 35 dB gain and output power of 500 watts. The amplifiers were simulated using the load pull utility provided in ADS, and most of the matching networks were implemented using the stepped impedance method. The substrate used for the amplifiers was Taconic RF-30 due to its thermal stability performance and low thermal dissipation factor. The PA has mechanical dimensions of 90mm x 160mm x 25mm. </p> </td>
+    <td> <br> <p align="justify"> Three RF power amplifiers including a 5 watt, then a 20watt, in series with a 500 watt solid-state LDMOS transistor were designed and developed to achieve a compact design with a 35 dB gain and output power of 500 watts. The amplifiers were simulated using the load pull utility provided in ADS, and most of the matching networks were implemented using the stepped impedance method. The substrate used for the amplifiers was Taconic RF-30 due to its thermal stability performance and low thermal dissipation factor. The PA has mechanical dimensions of 90mm x 160mm x 25mm. </p> </td>
   </tr>
 <!-- *************************************************** -->  
   </body>
