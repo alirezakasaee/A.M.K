@@ -33,10 +33,10 @@ In 2013, Alireza continued his education and research as a Ph.D. candidate at th
     <td><img src="./imgs/Splitter_1to64.jpg" /></td>
     <td> <br> <p align="justify"> Various techniques and approaches exist for dividing RF signals, but for applications requiring high power, multiple medium power amplifiers must be utilized, necessitating the use of a low loss splitter. The spatial cavity splitting method is highly sought after due to its ability to not only provide low loss division but also occupy minimal space. A 1 to 64 RF spatial splitter utilizing this design has been created, which only incurs a 0.2 dB signal loss and has mechanical dimensions of 90mm x 50mm x 10mm. </p> </td>
  </tr>
-<!--4 Splitter1to64************************************** -->    
+<!--4 Cavity_Combiner************************************** -->    
   <tr> 
-    <td><img src="./imgs/Splitter1to64.jpg" align="left" /></td>
-    <td> <br><p align="justify"> ****************************** </p> </td>
+    <td><img src="./imgs/CavityCom2.jpg" align="left" /></td>
+    <td> <br><p align="justify"> The RF signal combination process is a crucial stage in the design of high power stations, particularly for 100 kW power combiners. It is essential to minimize the incident power loss in order to prevent excessive heating, which can reduce the system efficiency. When combining 64 medium power amplifiers, a cavity combiner configuration is the optimal choice as it provides the lowest power loss. This method also requires very little space in comparison to other methods such as Binary, Wilkinson, or Gysel. The designed combiner exhibits an impressively low power loss of only 0.17 dB, which is a testament to its efficiency. Additionally, the combiner was designed with cost-effectiveness and compactness in mind at 352MHz, measuring only 90mm x 50mm x 10mm in size. </p> </td>
   </tr>
 <!--5 *************************************************** -->    
   <tr> 
