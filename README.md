@@ -38,10 +38,10 @@ In 2013, Alireza continued his education and research as a Ph.D. candidate at th
     <td><img src="./imgs/CavityCom2.jpg" align="left" /></td>
     <td> <br><p align="justify"> The RF signal combination process is a crucial stage in the design of high power stations, particularly for 100 kW power combiners. It is essential to minimize the incident power loss in order to prevent excessive heating, which can reduce the system efficiency. When combining 64 medium power amplifiers, a cavity combiner configuration is the optimal choice as it provides the lowest power loss. This method also requires very little space in comparison to other methods such as Binary, Wilkinson, or Gysel. The designed combiner exhibits an impressively low power loss of only 0.17 dB, which is a testament to its efficiency. Additionally, the combiner was designed with cost-effectiveness and compactness in mind at 352MHz, measuring only 90mm x 50mm x 10mm in size. </p> </td>
   </tr>
-<!--5 *************************************************** -->    
+<!--5 Coaxial4to1combiner*************************************************** -->    
   <tr> 
-    <td><img src="./imgs/100kwcombinergif.gif"  /></td>
-    <td> <br> <p align="justify">100kw RF combiner</p> </td>
+    <td><img src="./imgs/Coaxial_combiner.jpg"  /></td>
+    <td> <br> <p align="justify">coaxial combiner***************</p> </td>
   </tr>
 <!-- *************************************************** -->    
   </body>
