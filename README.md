@@ -12,14 +12,14 @@ In 2013, Alireza continued his education and research as a Ph.D. candidate at th
  <!--1 400kw************************************* -->
  <tr>
     <td><img src="./imgs/400kW.jpg" /></td>
-  <td> <b> 400kw Solid-State RF Power Station at 352MHz for ESS </b> <br> <br> <p align="justify"> The Solid-state 400 kW RF power station comprises four 100-kW power amplifier racks, which are combined through a very low-loss cavity combiner to achieve an output power of 100 kW using 64 2-kW RF power amplifiers.The output line is equipped with an isolator to safeguard the station from reflection power. The input side of the station features a 1-to-64 in-phase cavity splitter that efficiently divides the signal across the amplifiers. With the provision of isolation between all amplifier units, the station is expected to function reliably.
+  <td> <b> 400kw Solid-State RF Power Station at 352MHz for ESS </b> <br> <br> <p align="justify"> The Solid-state 400 kW RF power station comprises four 100-kW power amplifier racks, which are combined through a very low-loss cavity combiner to achieve an output power of 100 kW using 64 2-kW RF power amplifiers.The output line is equipped with an isolator to safeguard the station from reflection power. The input side of the station features a 1-to-64 in-phase cavity splitter that efficiently divides the signal across the amplifiers. With the provision of isolation between all inputs and outputs of amplifier units, the station is expected to function reliably with a long MTBF.
     </p>
     </td>
 </tr>
 <!--2 2kwmicrostrip************************************* -->
  <tr>
     <td><img src="./imgs/PA1.jpg" /></td>
-    <td> <b> 2 kW LDMOS Microstrip RF Power Amplifier at 352MHz </b> <br> <br><p align="justify"> This design aims to utilize a pull-pull transistor to achieve a compact continuous wave 2kW RF solid-state power amplifier with a signal gain of 16 dB and up to 80% drain efficiency at 352MHz, making it suitable for use in high-power RF stations. The matching network in this design is based on a strip line configuration and does not utilize a bulun, enabling the amplifier to have very high efficiency. The PA has mechanical dimensions of 90mm x 160mm x 50mm.
+    <td> <b> 2 kW LDMOS Microstrip RF Power Amplifier at 352MHz </b> <br> <br><p align="justify"> This design aims to utilize a push-pull transistor to achieve a compact continuous wave 2kW RF solid-state power amplifier with a signal gain of 16 dB and up to 80% drain efficiency at 352MHz, making it suitable for use in high-power RF stations. The substrate used for the amplifiers was RO6010 due to its high dielectric constant of 10 and low thermal dissipation factor.The matching network in this design is based on a strip line configuration and does not utilize a bulun, enabling the amplifier to have very high efficiency. The PA has mechanical dimensions of 90mm x 160mm x 50mm.
     </p>
     </td>
 </tr>
@@ -60,7 +60,7 @@ To achieve this, a coaxial Wilkinson combiner has been designed and developed, c
 <!--9 1w 750MHz GaN amplifier*************************************************** -->    
   <tr> 
     <td><img src="./imgs/HPA750MHz.JPG"  width="95%"/></td>
-    <td> <b> 1 kW GaN Solid-State RF Power Amplifier at 750MHz </b> <br> <br> <p align="justify"> Six 200-watt GaN solid-state amplifiers are combined using a 1:6:1 high-power combiner/splitter to generate a total output power of 1 kilowatt, as discussed in the previous column. A low-loss combiner/splitter is designed and utilized for this purpose. The high-power amplifiers are expected to exhibit a power efficiency of over 80%. To achieve a compact size and due to the high efficiency performance of the power amplifier, a small heatsink is selected for the high-power amplifier. Although this heatsink can only dissipate up to 100 watts of power, it is equipped with water tubes to enable the dissipation of higher power up to 250 watts in continuous wave (CW) operation. </p> </td>
+    <td> <b> 1 kW GaN Solid-State RF Power Amplifier at 750MHz </b> <br> <br> <p align="justify"> Six 200-watt GaN solid-state amplifiers are combined using a 1:6:1 high-power combiner/splitter to generate a total output power of more than 1 kilowatt, as discussed in the previous column. A low-loss combiner/splitter is designed and utilized for this purpose. The high-power amplifiers are expected to exhibit a power efficiency of over 80%. To achieve a compact size and due to the high efficiency performance of the power amplifier, a small heatsink is selected for the high-power amplifier. Although this heatsink can only dissipate up to 100 watts of power, it is equipped with water tubes to enable the dissipation of higher power up to 250 watts in continuous wave (CW) operation. </p> </td>
   </tr>
 <!-- ************************************************************* -->  
 <!--10 500W 3GHz*************************************************** -->    
